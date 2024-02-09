@@ -1,0 +1,88 @@
+li{
+    list-style-type: none;
+}
+.main{
+    background-image: url(img/back.png);
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+    /* box-sizing: border-box; */
+}
+#lawyer{
+        
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+button{
+    height: 50px;
+    color: white;
+}
+
+i{
+    margin-left: 10px;
+}
+#text{
+    color: #949494;
+}
+
+#button2:hover{
+    background-color: white !important;
+}
+#button3{
+    background-color: #037EF3 !important;
+    width: 160px;
+    
+}
+#top2{
+    height: 100vh;
+    width: 100% !important;
+    background-color: #1b1c1e;
+}
+.float-end{
+    height: 250px;
+    width: 900px;
+    background-color: #0F0F11;
+
+}
+#john{
+    height: 400px;
+    width: 400px;
+   
+}
+#black{
+    height: 280px;
+    width: 900px;
+    background-color: #0F0F11;
+}
+#top3{
+    background-color: #1F2022;
+    height: 100%;
+    width: 100vw;
+}
+#card{
+    height: 230px ;
+    width: 440px ;
+    /* border: 1px solid red; */
+    margin-left: -60px;
+    background-color:#1F2022  ;
+}
+#circle{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    background-color: #037EF3;
+    margin-top: 5px;
+}
+button{
+    width: 140px;
+}
+#top4{
+    height: 100%;
+    width: 100%;
+    background-color:#1b1c1e;
+}
+#stamp{
+    height:400px;
+    width:600px;
+    margin-left: -80px !important;
+}
