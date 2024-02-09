@@ -1,6 +1,7 @@
 li{
     list-style-type: none;
 }
+
 .main{
     background-image: url(img/back.png);
     background-size: cover;
@@ -35,7 +36,7 @@ i{
 }
 #top2{
     height: 100vh;
-    width: 100% !important;
+    width: 100vw !important;
     background-color: #1b1c1e;
 }
 .float-end{
@@ -78,11 +79,11 @@ button{
 }
 #top4{
     height: 100%;
-    width: 100%;
+    width: 100vw;
     background-color:#1b1c1e;
 }
 #stamp{
-    height:400px;
-    width:600px;
-    margin-left: -80px !important;
+    height:350px;
+    width:700px;
+    /* margin-left: -80px !important; */
 }
