@@ -85,5 +85,83 @@ button{
 #stamp{
     height:350px;
     width:700px;
-    /* margin-left: -80px !important; */
+}
+#practice:hover{
+    background-color: blue;
+}
+#practice{
+    background-color:   #0F0F11;
+}
+#chatting{
+    background-color: rgba(0, 0, 255, 0.521) !important;
+    width: 350px;
+    border-radius: 5px;
+
+}
+#chatting1{
+    width: 350px;
+    
+}
+#chatting2{
+    width: 350px;
+    
+}
+.chat-details{
+    margin-left: 10px;
+    padding: 10px;
+}
+.chat-histroy{
+    margin-top: 7px;
+    margin-left: 10px;
+}
+.chat-title{
+    margin-left: 10px;
+    font-weight: bolder
+}
+#mno{
+   
+    margin-left:    400px !important;
+}
+#bullets{
+    height: 600px;
+    width: 1250px;
+    background-color: #1F2022 ;
+}
+#card100{
+    height:500px ;
+    width:260px;
+    /* border: 1px solid red; */
+}
+#op{
+    text-decoration: underline;
+}
+#op:hover{
+    text-decoration: none;
+    color: white !important;
+}
+::placeholder{
+    color: white;
+}
+input{
+    background-color: #1F2022;
+    border: none;
+    width: 500px;
+    height: 50px;
+    outline: none;
+    border-radius: 5px;
+    color: white;
+}
+#feedback{
+    height: 600px;
+    width: 1250px;
+
+}
+textarea{
+    resize: none;
+    background-color: #1F2022;
+    border: none;
+    outline: none;
+}
+#efg1:hover{
+    color: white;
 }
